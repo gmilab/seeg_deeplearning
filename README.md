@@ -2,7 +2,7 @@
 
 Complete repository of deep learning and analysis scripts for 
 real-time prediction and closed-loop control of lapses in 
-attention. 
+attention shifting, published at https://doi.org/10.1038/s41593-026-02294-0
 
 Description
 
